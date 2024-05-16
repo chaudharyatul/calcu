@@ -1,0 +1,28 @@
+#box{
+    border: 2px solid black;
+    width: 300px;
+    height:260px;
+    padding-bottom:2px;
+    padding-left:20px;
+    background-color:#0fb6cb
+}
+#word{
+    margin: 12px;
+    width: 250px;
+    height:40px;
+    color:green;
+    border-radius:15px;
+
+}
+#button-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.button{
+    height: 50px;
+    width: 50px;
+    border-radius:15px;
+    background-color:#d89e8a;
+    margin-top:10px;
+}
